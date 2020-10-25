@@ -1,0 +1,146 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+/* Title */
+
+#title{
+padding: 20px 180px;
+}
+.nav-link{
+    color: #777070 !important;
+    font-size: 1.1rem;
+    margin: 0 50px;
+}
+
+/* Big image */
+
+.big-image img{
+  width: 80%;
+}
+.big-image{
+    padding-top: 20px;
+    text-align: center;
+}
+
+/* Photodiary */
+.photodiary-span{
+    color: #777070 ;
+}
+#photodiary{
+    padding:80px;
+    margin-left: 112px;
+    margin-right: 112px;
+}
+.photodiary-h2{
+    font-weight: 800;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.photodiary-p{
+    padding-bottom: 20px;
+}
+/* Side by side images */
+
+.side-by-side-images{
+    padding-top: 50px;
+    
+}
+/* First Row */
+
+.first-div img{
+    width: 65%;
+    padding-bottom: 20px;
+}
+.first-div{
+        padding-left:210px;
+     
+       
+    }
+.row-one-p{
+    margin-right: 258px;
+}
+/* Second Row */
+
+
+.second-div img{
+    width: 485px;
+    height: 340px;
+
+    padding-bottom: 20px;
+}
+
+.second-div{
+    padding-left: 275px;
+}
+.row-two-p{
+    margin-right: 190px;
+}
+/* Form section */
+
+.form-section{
+    background: #f0f0f0;
+    text-align: center;
+    padding: 3% 15% 7%;
+
+}
+.form-section h1{
+    font-weight: 900;
+}
+.form-control {
+    border: 0;
+    background-color:#f0f0f0; ;
+  
+   
+}
+.newsletter{
+    margin-left: 467px;
+   width: 30%;
+
+    border-bottom: solid 1px;
+   
+}
+.email{
+    padding-right: 140px;
+}
+/* Load Section */
+#load{
+padding:100px;
+    text-align: center;
+}
+.load{
+    border: solid;
+    padding:10px;
+    font-size: 1.5rem;
+    
+}
+/* Section Footer */
+
+#footer{
+    background: #f0f0f0;
+    padding-top:50px ;
+    padding-bottom: 50px;
+}
+
+.text{
+    text-decoration: none;
+    color: #505050;
+    font-size: 20px;
+    font-weight: 800;
+}
+  .text:hover {
+    text-decoration: none;
+    color: #505050;
+  }
+  .gap{
+      padding:0 45px;
+  }
+ .first-text{
+     padding-left: 164px;
+ }
+ .gaps{
+     padding:0 26px;
+ }
+ .second-text{
+     padding-left: 467px;
+ }
